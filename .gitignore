@@ -1,0 +1,5 @@
+cache/testdata/
+.idea
+coverage.out
+dist/*
+vendor/
